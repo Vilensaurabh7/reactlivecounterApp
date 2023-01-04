@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/reactlivecounterApp/static/css/main.f2743219.css",
+    "main.js": "/reactlivecounterApp/static/js/main.7e2fc15e.js",
+    "static/media/calculator.jpg": "/reactlivecounterApp/static/media/calculator.89af8e946cfca3a7aa40.jpg",
+    "index.html": "/reactlivecounterApp/index.html",
+    "main.f2743219.css.map": "/reactlivecounterApp/static/css/main.f2743219.css.map",
+    "main.7e2fc15e.js.map": "/reactlivecounterApp/static/js/main.7e2fc15e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2743219.css",
+    "static/js/main.7e2fc15e.js"
+  ]
+}
